@@ -25,9 +25,13 @@ What is the impact of chip usage on revenue?
 
 💻 Tech Stack:
 Power BI Desktop: Data visualization and dashboard creation
+
 Power Query: Data cleaning and transformation
+
 DAX Formulas: Calculated measures and KPIs
-Data Modeling: Relationships and hierarchies for interactive visuals  
+
+Data Modeling: Relationships and hierarchies for interactive visuals 
+
 .pbix File Format: Power BI project file
 
 📂 Data Source:
