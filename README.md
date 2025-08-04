@@ -36,4 +36,5 @@ Data Modeling: Relationships and hierarchies for interactive visuals
 
 📂 Data Source:
 Credit card transaction and customer data sourced from a YouTube dataset tutorial.
-[Dashboard image](https://github.com/SamikshaDhas/Dashboard_creditcard/blob/main/Screenshot%202025-08-03%20115846.png)
+
+![Dashboard Screenshot](https://github.com/SamikshaDhas/Dashboard_creditcard/blob/main/Screenshot%202025-08-03%20115846.png)
