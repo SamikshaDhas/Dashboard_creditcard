@@ -16,8 +16,11 @@ Customer acquisition cost by card type
 
 🔍 Key Questions Answered:
 Which card category generates the highest revenue and interest?
+
 How do revenue trends vary across quarters?
+
 Which customer demographics contribute most to spending?
+
 What is the impact of chip usage on revenue?
 
 💻 Tech Stack:
